@@ -1,5 +1,6 @@
 :root {
-    --blue: #1e90ff;
-    --white: #ffffff;
-    --yellow: #FBBC04;
+    --body: #F7F5F2;
+    --footer: #fff;
+    --navbar: #004AAD;
+    --title: #000;
 }
